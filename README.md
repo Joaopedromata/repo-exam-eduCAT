@@ -16,7 +16,9 @@
 
 </p>
 <hr />
-<h3 align="center"><a>https://educat.vercel.app/<a></h3>
+<p align="center">
+    <a align="center">https://educat.vercel.app/<a>
+</p>
 <hr />
 
 ## ❓ Sobre
@@ -52,6 +54,8 @@
 -  [Sequelize](https://sequelize.org)
 -  [Jest](https://jestjs.io/)
 -  [Axios](https://github.com/axios/axios)
+
+<hr />
 
 ## 🔥 Como Executar
 
