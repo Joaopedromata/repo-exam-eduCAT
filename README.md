@@ -2,16 +2,10 @@
     Exam eduCAT
 <h1>
 <img src=".github/layout.png" alt="imagem demonstrativa"/>
-<h1 align="center">ReactJS
+<h1 align="center">ReactJS || Node.js
     <p align="center">  
-        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaopedromata/exam-educat">
-        <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopedromata/exam-educat?style=flat-square">
-    </p>
-</h1>
-<h1 align="center">Node.js
-    <p align="center">  
-        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaopedromata/exam-educat-backend">
-        <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopedromata/exam-educat-backend?style=flat-square">
+        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaopedromata/repo-exam-eduCAT">
+        <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopedromata/repo-exam-eduCAT?style=flat-square">
     </p>
 </h1>
 <p align="center">
