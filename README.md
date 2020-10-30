@@ -16,7 +16,7 @@
 
 </p>
 <hr />
-<a><h3 align="center">https://educat.vercel.app/<h3></a>
+<h3 align="center"><a>https://educat.vercel.app/<a></h3>
 <hr />
 
 ## ❓ Sobre
@@ -54,6 +54,12 @@
 -  [Axios](https://github.com/axios/axios)
 
 ## 🔥 Como Executar
+
+- ### **Pré-requisitos**
+
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado no computador
+  - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
 
 #### Para executar o servidor da aplicação, abra o terminal do seu sistema operacional, navegue até a pasta do projeto, entre no diretório server e execute:
 
